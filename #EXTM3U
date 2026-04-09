@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "type": "iptv_channels",
+  "total": 5,
+  "groups": [
+    {
+      "name": "Temporários",
+      "channels": [
+        {
+          "name": "Globo SP",
+          "stream": "http://192.99.148.73:8080/live/play/play/2.ts"
+        },
+        {
+          "name": "Globo RJ",
+          "stream": "http://192.99.148.73:8080/live/play/play/567.ts"
+        },
+        {
+          "name": "Record",
+          "stream": "http://192.99.148.73:8080/live/play/play/6.ts"
+        },
+        {
+          "name": "SBT",
+          "stream": "http://192.99.148.73:8080/live/play/play/3.ts"
+        },
+        {
+          "name": "Band",
+          "stream": "http://192.99.148.73:8080/live/play/play/5.ts"
+        }
+      ]
+    },
+    {
+      "name": "Futebol Ao Vivo",
+      "channels": [
+        {
+          "name": "Jogos Ao Vivo",
+          "stream": "http://loadnovo.aovivo.gratis:8081/live/1/playlist.m3u8"
+        },
+        {
+          "name": "Jogos Ao Vivo",
+          "stream": "http://loadnovo.aovivo.gratis:8081/live/7/playlist.m3u8"
+        },
+        {
+          "name": "Jogos Ao Vivo",
+          "stream": "http://loadnovo.aovivo.gratis:8081/live/20/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Reality",
+      "channels": [
+        {
+          "name": "A Fazenda HD",
+          "stream": "https://afazendaoitohls1-lh.akamaihd.net/i/afazendaoitohls1_1@379189/master.m3u8"
+        },
+        {
+          "name": "A Fazenda 480p",
+          "stream": "https://afazendaoitohls1-lh.akamaihd.net/i/afazendaoitohls1_1@379189/index_480_av-p.m3u8"
+        }
+      ]
+    }
+  ]
+}
