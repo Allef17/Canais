@@ -1,134 +1,100 @@
-[
-  {
-    "name": "GLOBO SP",
-    "group": "TV ABERTA",
-    "logo": "http://s17.postimg.org/w75u3yg1n/globo2.png",
-    "url": "http://95.211.149.215:8081/look/sptv/playlist.m3u8"
-  },
-  {
-    "name": "GLOBO NEWS",
-    "group": "Notícias",
-    "logo": "https://goo.gl/IQS0pJ",
-    "url": "http://5.79.68.138:8081/look/globonews/playlist.m3u8"
-  },
-  {
-    "name": "SBT SP",
-    "group": "TV ABERTA",
-    "logo": "http://s32.postimg.org/5fmicyl3p/SBT1.png",
-    "url": "http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/playlist.m3u8"
-  },
-  {
-    "name": "SBT HD",
-    "group": "TV ABERTA",
-    "logo": "http://s32.postimg.org/5fmicyl3p/SBT1.png",
-    "url": "http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8"
-  },
-  {
-    "name": "BAND SP",
-    "group": "TV ABERTA",
-    "logo": "http://s15.postimg.org/nvhe10jzb/band3.png",
-    "url": "http://5.79.68.138:8081/look/band/playlist.m3u8"
-  },
-  {
-    "name": "REDETV HD",
-    "group": "CANAL ABERTO",
-    "logo": "https://lut.im/sR9hSAYmhq/eyVOxg3CkXmhVvFZ.png",
-    "url": "http://evp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8"
-  },
-  {
-    "name": "RECORD SP",
-    "group": "TV ABERTA",
-    "logo": "http://s20.postimg.org/s2r5c8fxp/record.png",
-    "url": "http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/tv.m3u8"
-  },
-  {
-    "name": "RECORD NEWS",
-    "group": "NOTICIAS",
-    "logo": "http://i.imgur.com/P0XMqwI.jpg",
-    "url": "http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8"
-  },
-  {
-    "name": "TV CULTURA PA",
-    "group": "TV ABERTA",
-    "logo": "http://s20.postimg.org/m7orza8x9/TV_Cultura.png",
-    "url": "http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8"
-  },
-  {
-    "name": "TV BRASIL",
-    "group": "TV ABERTA",
-    "logo": "http://s20.postimg.org/lgw1ti6jx/TV_Brasil.png",
-    "url": "http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8"
-  },
-  {
-    "name": "TV JUSTIÇA",
-    "group": "CANAL ABERTO",
-    "logo": "https://goo.gl/U8KEaQ",
-    "url": "http://www.tvmpf.mpf.mp.br:1935/event549/event549.stream_720p/playlist.m3u8"
-  },
-  {
-    "name": "MULTISHOW",
-    "group": "MUSICA",
-    "logo": "http://s32.postimg.org/7wouj3pht/multishow.png",
-    "url": "http://m3u.me/baP"
-  },
-  {
-    "name": "HIT TV",
-    "group": "MUSICA",
-    "logo": "http://www.hittv.es/img/cabeceras/HITtv1.jpg",
-    "url": "http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8"
-  },
-  {
-    "name": "DJING HD",
-    "group": "MUSICA",
-    "logo": "https://goo.gl/fVVy1W",
-    "url": "http://www.djing.com/tv/01.m3u8"
-  },
-  {
-    "name": "NICK",
-    "group": "INFANTIL",
-    "logo": "https://goo.gl/nBY46k",
-    "url": "http://5.79.68.138:8081/look/nick/playlist.m3u8"
-  },
-  {
-    "name": "CARTOON NETWORK",
-    "group": "INFANTIL",
-    "logo": "https://goo.gl/SkSqFt",
-    "url": "http://95.211.149.215:8081/look/cartoon/playlist.m3u8"
-  },
-  {
-    "name": "DISNEY CHANNEL",
-    "group": "INFANTIL",
-    "logo": "http://s20.postimg.org/p5rnmwxot/Disney_Channel.png",
-    "url": "http://tv.ec.cx:1935/WSZF8sTB/myStream/playlist.m3u8"
-  },
-  {
-    "name": "NICKELODEON",
-    "group": "INFANTIL",
-    "logo": "http://s20.postimg.org/e7rgp8w3t/nick.png",
-    "url": "http://tv.ec.cx:1935/BY8EMBQP/myStream/playlist.m3u8"
-  },
-  {
-    "name": "SPORTV",
-    "group": "ESPORTES",
-    "logo": "https://s19.postimg.org/72a42n79v/sportv.png",
-    "url": "http://5.79.68.138:8081/look/sportv/playlist.m3u8"
-  },
-  {
-    "name": "SPORTV 2",
-    "group": "ESPORTES",
-    "logo": "http://s20.postimg.org/ccq9oobd5/Spor_TV2.png",
-    "url": "http://5.79.68.138:8081/look/sportv2/playlist.m3u8"
-  },
-  {
-    "name": "FOX SPORTS",
-    "group": "ESPORTES",
-    "logo": "https://s31.postimg.org/3rvcvwf8b/Fox_Sports.png",
-    "url": "http://5.79.68.138:8081/look/espn/playlist.m3u8"
-  },
-  {
-    "name": "REAL MADRID TV",
-    "group": "ESPORTES",
-    "logo": "https://goo.gl/lEjmGT",
-    "url": "http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8"
-  }
-]
+{
+  "channels": [
+    {
+      "title": "RECORD ALAGOAS HD",
+      "stream": "http://lphas.click:80/4199922241/awsedc1485/27530847.ts",
+      "logo": "https://i.imgur.com/6bLoAO2.png",
+      "category": "RECORD TV"
+    },
+    {
+      "title": "RECORD RECIFE HD",
+      "stream": "http://lphas.click:80/4199922241/awsedc1485/27530846.ts",
+      "logo": "https://i.imgur.com/6bLoAO2.png",
+      "category": "RECORD TV"
+    },
+    {
+      "title": "Record TV Belém HD",
+      "stream": "http://lphas.click:80/4199922241/awsedc1485/27510944.ts",
+      "logo": "https://i.imgur.com/6bLoAO2.png",
+      "category": "RECORD TV"
+    },
+    {
+      "title": "Record TV Ceará HD",
+      "stream": "http://lphas.click:80/4199922241/awsedc1485/27510936.ts",
+      "logo": "https://i.imgur.com/6bLoAO2.png",
+      "category": "RECORD TV"
+    },
+    {
+      "title": "SBT Londrina HD",
+      "stream": "http://lphas.click:80/4199922241/awsedc1485/27530845.ts",
+      "logo": "https://i.imgur.com/esWXQP3.png",
+      "category": "SBT"
+    },
+    {
+      "title": "SBT Alagoas HD",
+      "stream": "http://lphas.click:80/4199922241/awsedc1485/27530844.ts",
+      "logo": "https://i.imgur.com/esWXQP3.png",
+      "category": "SBT"
+    },
+    {
+      "title": "NickOnline",
+      "stream": "https://x1co.com.br:8443/hls/stream.m3u8",
+      "logo": "https://x1co.com.br:8443/logo.png",
+      "category": "CANAIS INFANTIS"
+    },
+    {
+      "title": "JB FM",
+      "stream": "http://lphas.click:80/4199922241/awsedc1485/27521217.ts",
+      "logo": "",
+      "category": "RÁDIO"
+    },
+    {
+      "title": "Elephants - San Diego Zoo",
+      "stream": "http://lphas.click:80/4199922241/awsedc1485/27519038.ts",
+      "logo": "",
+      "category": "CÂMERAS AO VIVO"
+    },
+    {
+      "title": "Penguins - San Diego Zoo",
+      "stream": "http://lphas.click:80/4199922241/awsedc1485/27519037.ts",
+      "logo": "",
+      "category": "CÂMERAS AO VIVO"
+    },
+    {
+      "title": "Koala Cam - San Diego Zoo",
+      "stream": "http://lphas.click:80/4199922241/awsedc1485/27519036.ts",
+      "logo": "",
+      "category": "CÂMERAS AO VIVO"
+    },
+    {
+      "title": "Rede Mundial",
+      "stream": "http://lphas.click:80/4199922241/awsedc1485/27518378.ts",
+      "logo": "",
+      "category": "RELIGIOSOS"
+    },
+    {
+      "title": "Canção Nova HD",
+      "stream": "http://lphas.click:80/4199922241/awsedc1485/27514849.ts",
+      "logo": "",
+      "category": "RELIGIOSOS"
+    },
+    {
+      "title": "Rede Vida HD",
+      "stream": "http://lphas.click:80/4199922241/awsedc1485/27514833.ts",
+      "logo": "",
+      "category": "RELIGIOSOS"
+    },
+    {
+      "title": "Canal Brasil HD",
+      "stream": "http://lphas.click:80/4199922241/awsedc1485/27514113.ts",
+      "logo": "",
+      "category": "CANAIS ABERTOS"
+    },
+    {
+      "title": "Futura HD",
+      "stream": "http://lphas.click:80/4199922241/awsedc1485/27514098.ts",
+      "logo": "",
+      "category": "CANAIS ABERTOS"
+    }
+  ]
+}
