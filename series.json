@@ -1,36 +1,20 @@
 [
   {
-    "name": "Bridgerton",
-    "id": "tt8740790",
-    "type": "serie",
-    "poster": "https://static.wixstatic.com/media/ee5d2f_932db13381d649d19a869eefd89b25aa~mv2.jpg/v1/fill/w_556,h_824,al_c,q_85,enc_avif,quality_auto/ee5d2f_932db13381d649d19a869eefd89b25aa~mv2.jpg",
-    "category": ["drama"],
-    "seasons": [
-      {
-        "season": 1,
-        "episodes": [
-          {
-            "episode": 1,
-            "name": "Diamante Raro",
-            "link": "https://myembed.biz/serie/tt8740790/1/1"
-          },
-          {
-            "episode": 2,
-            "name": "Episódio 2",
-            "link": "https://myembed.biz/serie/tt8740790/1/2"
-          }
-        ]
-      },
-      {
-        "season": 2,
-        "episodes": [
-          {
-            "episode": 1,
-            "name": "Episódio 1",
-            "link": "https://myembed.biz/serie/tt8740790/2/1"
-          }
-        ]
-      }
-    ]
+    "nome": "Bridgerton - T1E1 Diamante Raro",
+    "link": "https://myembed.biz/serie/tt8740790/1/1",
+    "poster": "https://br.web.img3.acsta.net/pictures/20/11/04/11/32/4052345.jpg",
+    "categoria": "drama"
+  },
+  {
+    "nome": "Bridgerton - T1E2 Episódio 2",
+    "link": "https://myembed.biz/serie/tt8740790/1/2",
+    "poster": "https://br.web.img3.acsta.net/pictures/20/11/04/11/32/4052345.jpg",
+    "categoria": "drama"
+  },
+  {
+    "nome": "Bridgerton - T2E1 Episódio 1",
+    "link": "https://myembed.biz/serie/tt8740790/2/1",
+    "poster": "https://br.web.img3.acsta.net/pictures/20/11/04/11/32/4052345.jpg",
+    "categoria": "drama"
   }
 ]
