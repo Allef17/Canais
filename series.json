@@ -1,20 +1,23 @@
 [
   {
-    "nome": "Bridgerton - T1E1 Diamante Raro",
+    "name": "Bridgerton - T1E1 Diamante Raro",
     "link": "https://myembed.biz/serie/tt8740790/1/1",
-    "poster": "https://br.web.img3.acsta.net/pictures/20/11/04/11/32/4052345.jpg",
-    "categoria": "drama"
+    "poster": "URL_DA_SERIE_AQUI",
+    "category": "drama",
+    "type": "serie"
   },
   {
-    "nome": "Bridgerton - T1E2 Episódio 2",
+    "name": "Bridgerton - T1E2 Episódio 2",
     "link": "https://myembed.biz/serie/tt8740790/1/2",
-    "poster": "https://br.web.img3.acsta.net/pictures/20/11/04/11/32/4052345.jpg",
-    "categoria": "drama"
+    "poster": "URL_DA_SERIE_AQUI",
+    "category": "drama",
+    "type": "serie"
   },
   {
-    "nome": "Bridgerton - T2E1 Episódio 1",
+    "name": "Bridgerton - T2E1 Episódio 1",
     "link": "https://myembed.biz/serie/tt8740790/2/1",
-    "poster": "https://br.web.img3.acsta.net/pictures/20/11/04/11/32/4052345.jpg",
-    "categoria": "drama"
+    "poster": "URL_DA_SERIE_AQUI",
+    "category": "drama",
+    "type": "serie"
   }
 ]
